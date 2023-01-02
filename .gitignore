@@ -1,7 +1,6 @@
 */.tmp/*
 */client/lib*
 */common/lib*
-*/server/lib*
 *node_modules*
 /.idea
 /lib
